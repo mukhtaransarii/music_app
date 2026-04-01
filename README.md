@@ -22,7 +22,7 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 ### 🏠 Home Screen
 
 <p align="center">
-  <img src="./assets/home.png" width="230" />
+  <img src="./assets/home.jpeg" width="230" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 ### 🔍 Song List / Search
 
 <p align="center">
-  <img src="./assets/search.png" width="230" />
+  <img src="./assets/search.jpeg" width="230" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 ### 🎧 Player Screen
 
 <p align="center">
-  <img src="./assets/player.png" width="230" />
+  <img src="./assets/player.jpeg" width="230" />
 </p>
 
 ---
