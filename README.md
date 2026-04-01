@@ -19,29 +19,11 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-
 <p align="center">
   <img src="./assets/home.jpeg" width="230" />
-</p>
-
----
-
-### 🔍 Song List / Search
-
-<p align="center">
   <img src="./assets/search.jpeg" width="230" />
-</p>
-
----
-
-### 🎧 Player Screen
-
-<p align="center">
   <img src="./assets/player.jpeg" width="230" />
 </p>
-
----
 
 ## 🛠 Tech Stack
 
