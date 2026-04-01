@@ -21,19 +21,25 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 
 ### 🏠 Home Screen
 
-![Home](./assets/home.jpeg)
+<p align="center">
+  <img src="./assets/home.png" width="230" />
+</p>
 
 ---
 
 ### 🔍 Song List / Search
 
-![Search](./assets/search.jpeg)
+<p align="center">
+  <img src="./assets/search.png" width="230" />
+</p>
 
 ---
 
 ### 🎧 Player Screen
 
-![Player](./assets/player.jpeg)
+<p align="center">
+  <img src="./assets/player.png" width="230" />
+</p>
 
 ---
 
