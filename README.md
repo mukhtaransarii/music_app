@@ -20,9 +20,9 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/home.jpeg" width="230" />
-  <img src="./assets/search.jpeg" width="230" />
-  <img src="./assets/player.jpeg" width="230" />
+  <img src="./assets/home.jpeg" width="230" style="margin: 0 10px;" />
+  <img src="./assets/search.jpeg" width="230" style="margin: 0 10px;" />
+  <img src="./assets/player.jpeg" width="230" style="margin: 0 10px;" />
 </p>
 
 ## 🛠 Tech Stack
