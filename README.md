@@ -1,4 +1,4 @@
-# 🎵 Lokal Music App
+# 🎵 Music App
 
 A clean and minimal **React Native Music Streaming App** built with Expo.
 Search, play, and control songs with a smooth UI inspired by modern apps.
@@ -20,9 +20,9 @@ Search, play, and control songs with a smooth UI inspired by modern apps.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/home.jpeg" width="230" style="margin: 0 10px;" />
-  <img src="./assets/search.jpeg" width="230" style="margin: 0 10px;" />
-  <img src="./assets/player.jpeg" width="230" style="margin: 0 10px;" />
+  <img src="./assets/home.jpeg" width="230" style="margin: 0 15px;" />
+  <img src="./assets/search.jpeg" width="230" style="margin: 0 15px;" />
+  <img src="./assets/player.jpeg" width="230" style="margin: 0 15px;" />
 </p>
 
 ## 🛠 Tech Stack
@@ -68,8 +68,8 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/lokal-music-app.git
-cd lokal-music-app
+git clone https://github.com/your-username/music-app.git
+cd music-app
 ```
 
 ---
